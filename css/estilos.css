@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+ 	background:url(fondo.jpg) right=100%,  left=100%, #000;/*colocar una img de fondo*/
+ 	background-size: cover; /* la imagen se ajusta al ancho de la pantalla del usuario*/
+ 	color: #fff;
+ 	font-size: 16px;}
+
+
+.negritas{
+	
+	font-weight:bold;
+	}
+	
+.lineas{
+ heigth:2px;
+ bacgroung-color:#00FF00;
+     }
+ 
+ 
+.divresultado{
+	margin-left:25%;
+	margin-right:25%;
+	text-align:center;
+      }
